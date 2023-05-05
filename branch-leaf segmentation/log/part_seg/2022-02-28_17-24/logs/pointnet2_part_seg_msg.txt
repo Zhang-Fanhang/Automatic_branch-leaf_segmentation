@@ -1,0 +1,59 @@
+2022-02-28 17:24:02,025 - Model - INFO - PARAMETER ...
+2022-02-28 17:24:02,026 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir=None, lr_decay=0.5, model='pointnet2_part_seg_msg', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2022-02-28 17:24:02,160 - Model - INFO - The number of training data is: 13998
+2022-02-28 17:24:02,160 - Model - INFO - The number of test data is: 2874
+2022-02-28 17:24:05,349 - Model - INFO - No existing model, starting training from scratch...
+2022-02-28 17:24:05,355 - Model - INFO - Epoch 1 (1/251):
+2022-02-28 17:24:05,355 - Model - INFO - Learning rate:0.001000
+2022-02-28 17:47:11,645 - Model - INFO - Train accuracy is: 0.84695
+2022-02-28 17:51:21,064 - Model - INFO - eval mIoU of Airplane       0.718535
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Bag            0.449027
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Cap            0.138930
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Car            0.439232
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Chair          0.856601
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Earphone       0.480815
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Guitar         0.803591
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Knife          0.636462
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Lamp           0.704530
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Laptop         0.812494
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Motorbike      0.214376
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Mug            0.502004
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Pistol         0.626368
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Rocket         0.227525
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Skateboard     0.439384
+2022-02-28 17:51:21,065 - Model - INFO - eval mIoU of Table          0.774559
+2022-02-28 17:51:21,066 - Model - INFO - Epoch 1 test Accuracy: 0.878919  Class avg mIOU: 0.551527   Inctance avg mIOU: 0.734301
+2022-02-28 17:51:21,066 - Model - INFO - Save model...
+2022-02-28 17:51:21,066 - Model - INFO - Saving at log/part_seg/2022-02-28_17-24/checkpoints/best_model.pth
+2022-02-28 17:51:21,178 - Model - INFO - Saving model....
+2022-02-28 17:51:21,178 - Model - INFO - Best accuracy is: 0.87892
+2022-02-28 17:51:21,178 - Model - INFO - Best class avg mIOU is: 0.55153
+2022-02-28 17:51:21,178 - Model - INFO - Best inctance avg mIOU is: 0.73430
+2022-02-28 17:51:21,178 - Model - INFO - Epoch 2 (2/251):
+2022-02-28 17:51:21,178 - Model - INFO - Learning rate:0.001000
+2022-02-28 18:15:01,312 - Model - INFO - Train accuracy is: 0.90553
+2022-02-28 18:19:05,667 - Model - INFO - eval mIoU of Airplane       0.699437
+2022-02-28 18:19:05,667 - Model - INFO - eval mIoU of Bag            0.468531
+2022-02-28 18:19:05,667 - Model - INFO - eval mIoU of Cap            0.814903
+2022-02-28 18:19:05,667 - Model - INFO - eval mIoU of Car            0.667779
+2022-02-28 18:19:05,668 - Model - INFO - eval mIoU of Chair          0.868478
+2022-02-28 18:19:05,668 - Model - INFO - eval mIoU of Earphone       0.538709
+2022-02-28 18:19:05,668 - Model - INFO - eval mIoU of Guitar         0.805673
+2022-02-28 18:19:05,668 - Model - INFO - eval mIoU of Knife          0.788005
+2022-02-28 18:19:05,668 - Model - INFO - eval mIoU of Lamp           0.741815
+2022-02-28 18:19:05,668 - Model - INFO - eval mIoU of Laptop         0.951000
+2022-02-28 18:19:05,668 - Model - INFO - eval mIoU of Motorbike      0.204555
+2022-02-28 18:19:05,668 - Model - INFO - eval mIoU of Mug            0.779241
+2022-02-28 18:19:05,668 - Model - INFO - eval mIoU of Pistol         0.626904
+2022-02-28 18:19:05,668 - Model - INFO - eval mIoU of Rocket         0.232055
+2022-02-28 18:19:05,668 - Model - INFO - eval mIoU of Skateboard     0.486615
+2022-02-28 18:19:05,668 - Model - INFO - eval mIoU of Table          0.765473
+2022-02-28 18:19:05,669 - Model - INFO - Epoch 2 test Accuracy: 0.894013  Class avg mIOU: 0.652448   Inctance avg mIOU: 0.763863
+2022-02-28 18:19:05,669 - Model - INFO - Save model...
+2022-02-28 18:19:05,669 - Model - INFO - Saving at log/part_seg/2022-02-28_17-24/checkpoints/best_model.pth
+2022-02-28 18:19:05,767 - Model - INFO - Saving model....
+2022-02-28 18:19:05,768 - Model - INFO - Best accuracy is: 0.89401
+2022-02-28 18:19:05,768 - Model - INFO - Best class avg mIOU is: 0.65245
+2022-02-28 18:19:05,768 - Model - INFO - Best inctance avg mIOU is: 0.76386
+2022-02-28 18:19:05,768 - Model - INFO - Epoch 3 (3/251):
+2022-02-28 18:19:05,768 - Model - INFO - Learning rate:0.001000

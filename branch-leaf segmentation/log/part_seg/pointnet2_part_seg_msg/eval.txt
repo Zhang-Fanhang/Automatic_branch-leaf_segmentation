@@ -1,0 +1,566 @@
+2022-07-18 17:59:12,459 - Model - INFO - PARAMETER ...
+2022-07-18 17:59:12,459 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 17:59:12,460 - Model - INFO - The number of test data is: 40
+2022-07-18 17:59:54,735 - Model - INFO - eval mIoU of branch         0.883864
+2022-07-18 17:59:54,735 - Model - INFO - Accuracy is: 0.97209
+2022-07-18 17:59:54,735 - Model - INFO - Class avg accuracy is: 0.93133
+2022-07-18 17:59:54,735 - Model - INFO - Class avg mIOU is: 0.88386
+2022-07-18 17:59:54,735 - Model - INFO - Inctance avg mIOU is: 0.88386
+2022-07-18 19:57:16,197 - Model - INFO - PARAMETER ...
+2022-07-18 19:57:16,197 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 19:57:16,199 - Model - INFO - The number of test data is: 40
+2022-07-18 19:57:44,221 - Model - INFO - PARAMETER ...
+2022-07-18 19:57:44,221 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 19:57:44,223 - Model - INFO - The number of test data is: 40
+2022-07-18 19:59:23,465 - Model - INFO - PARAMETER ...
+2022-07-18 19:59:23,465 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 19:59:23,467 - Model - INFO - The number of test data is: 40
+2022-07-18 20:09:51,572 - Model - INFO - PARAMETER ...
+2022-07-18 20:09:51,573 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 20:09:51,575 - Model - INFO - The number of test data is: 40
+2022-07-18 20:14:26,756 - Model - INFO - PARAMETER ...
+2022-07-18 20:14:26,756 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 20:14:26,757 - Model - INFO - The number of test data is: 40
+2022-07-18 20:15:08,409 - Model - INFO - eval mIoU of branch         0.876154
+2022-07-18 20:15:08,409 - Model - INFO - Accuracy is: 0.96984
+2022-07-18 20:15:08,409 - Model - INFO - Class avg accuracy is: 0.92562
+2022-07-18 20:15:08,410 - Model - INFO - Class avg mIOU is: 0.87615
+2022-07-18 20:15:08,410 - Model - INFO - Inctance avg mIOU is: 0.87615
+2022-07-18 20:20:39,468 - Model - INFO - PARAMETER ...
+2022-07-18 20:20:39,468 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 20:20:56,757 - Model - INFO - PARAMETER ...
+2022-07-18 20:20:56,757 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 20:21:24,901 - Model - INFO - PARAMETER ...
+2022-07-18 20:21:24,901 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 20:21:24,902 - Model - INFO - The number of test data is: 3
+2022-07-18 20:21:31,200 - Model - INFO - eval mIoU of branch         0.904585
+2022-07-18 20:21:31,200 - Model - INFO - Accuracy is: 0.97689
+2022-07-18 20:21:31,200 - Model - INFO - Class avg accuracy is: 0.95398
+2022-07-18 20:21:31,200 - Model - INFO - Class avg mIOU is: 0.90459
+2022-07-18 20:21:31,200 - Model - INFO - Inctance avg mIOU is: 0.90459
+2022-07-18 20:22:04,637 - Model - INFO - PARAMETER ...
+2022-07-18 20:22:04,637 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 20:22:04,638 - Model - INFO - The number of test data is: 3
+2022-07-18 20:22:11,378 - Model - INFO - eval mIoU of branch         0.904609
+2022-07-18 20:22:47,417 - Model - INFO - Accuracy is: 0.97673
+2022-07-18 20:22:47,667 - Model - INFO - Class avg accuracy is: 0.95145
+2022-07-18 20:22:48,080 - Model - INFO - Class avg mIOU is: 0.90461
+2022-07-18 20:22:48,873 - Model - INFO - Inctance avg mIOU is: 0.90461
+2022-07-18 20:23:19,634 - Model - INFO - PARAMETER ...
+2022-07-18 20:23:19,634 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 20:23:19,635 - Model - INFO - The number of test data is: 3
+2022-07-18 20:23:50,241 - Model - INFO - eval mIoU of branch         0.897589
+2022-07-18 20:23:51,060 - Model - INFO - Accuracy is: 0.97428
+2022-07-18 20:23:51,060 - Model - INFO - Class avg accuracy is: 0.95129
+2022-07-18 20:23:51,061 - Model - INFO - Class avg mIOU is: 0.89759
+2022-07-18 20:23:51,061 - Model - INFO - Inctance avg mIOU is: 0.89759
+2022-07-18 20:37:00,745 - Model - INFO - PARAMETER ...
+2022-07-18 20:37:00,745 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 20:37:00,746 - Model - INFO - The number of test data is: 3
+2022-07-18 20:37:06,955 - Model - INFO - eval mIoU of branch         0.905153
+2022-07-18 20:37:06,956 - Model - INFO - Accuracy is: 0.97689
+2022-07-18 20:37:06,956 - Model - INFO - Class avg accuracy is: 0.95215
+2022-07-18 20:37:06,956 - Model - INFO - Class avg mIOU is: 0.90515
+2022-07-18 20:37:06,956 - Model - INFO - Inctance avg mIOU is: 0.90515
+2022-07-18 20:37:06,956 - Model - INFO - m_recall is: 0.95215
+2022-07-18 20:37:06,956 - Model - INFO - m_precison is: 0.93729
+2022-07-18 20:38:02,025 - Model - INFO - PARAMETER ...
+2022-07-18 20:38:02,026 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 20:38:02,027 - Model - INFO - The number of test data is: 3
+2022-07-18 20:38:08,665 - Model - INFO - eval mIoU of branch         0.904677
+2022-07-18 20:38:08,666 - Model - INFO - Accuracy is: 0.97607
+2022-07-18 20:38:08,666 - Model - INFO - Class avg accuracy is: 0.95596
+2022-07-18 20:38:08,666 - Model - INFO - Class avg mIOU is: 0.90468
+2022-07-18 20:38:08,666 - Model - INFO - Inctance avg mIOU is: 0.90468
+2022-07-18 20:38:08,666 - Model - INFO - m_recall is: 0.95596
+2022-07-18 20:38:08,666 - Model - INFO - m_precison is: 0.93146
+2022-07-18 20:39:56,826 - Model - INFO - PARAMETER ...
+2022-07-18 20:39:56,826 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 20:39:56,827 - Model - INFO - The number of test data is: 3
+2022-07-18 20:40:03,053 - Model - INFO - eval mIoU of branch         0.909240
+2022-07-18 20:40:03,053 - Model - INFO - Accuracy is: 0.97803
+2022-07-18 20:40:03,053 - Model - INFO - Class avg accuracy is: 0.95340
+2022-07-18 20:40:03,053 - Model - INFO - Class avg mIOU is: 0.90924
+2022-07-18 20:40:03,053 - Model - INFO - Inctance avg mIOU is: 0.90924
+2022-07-18 20:40:03,053 - Model - INFO - m_recall is: 0.95340
+2022-07-18 20:40:03,053 - Model - INFO - m_precison is: 0.94108
+2022-07-18 20:40:03,053 - Model - INFO - F1-Score is: 0.94720
+2022-07-18 20:40:21,837 - Model - INFO - PARAMETER ...
+2022-07-18 20:40:21,837 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 20:40:21,838 - Model - INFO - The number of test data is: 40
+2022-07-18 20:41:03,154 - Model - INFO - eval mIoU of branch         0.877836
+2022-07-18 20:41:03,155 - Model - INFO - Accuracy is: 0.97043
+2022-07-18 20:41:03,155 - Model - INFO - Class avg accuracy is: 0.92570
+2022-07-18 20:41:03,155 - Model - INFO - Class avg mIOU is: 0.87784
+2022-07-18 20:41:03,155 - Model - INFO - Inctance avg mIOU is: 0.87784
+2022-07-18 20:41:03,155 - Model - INFO - m_recall is: 0.92570
+2022-07-18 20:41:03,155 - Model - INFO - m_precison is: 0.93516
+2022-07-18 20:41:03,155 - Model - INFO - F1-Score is: 0.93041
+2022-07-18 20:42:36,857 - Model - INFO - PARAMETER ...
+2022-07-18 20:42:36,857 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-18 20:42:36,858 - Model - INFO - The number of test data is: 40
+2022-07-18 20:43:19,459 - Model - INFO - eval mIoU of branch         0.878090
+2022-07-18 20:43:19,459 - Model - INFO - Accuracy is: 0.97052
+2022-07-18 20:43:19,459 - Model - INFO - Class avg accuracy is: 0.92605
+2022-07-18 20:43:19,460 - Model - INFO - Class avg mIOU is: 0.87809
+2022-07-18 20:43:19,460 - Model - INFO - Inctance avg mIOU is: 0.87809
+2022-07-18 20:43:19,460 - Model - INFO - m_recall is: 0.92605
+2022-07-18 20:43:19,460 - Model - INFO - m_precison is: 0.93525
+2022-07-18 20:43:19,460 - Model - INFO - F1-Score is: 0.93063
+2022-07-19 12:16:47,661 - Model - INFO - PARAMETER ...
+2022-07-19 12:16:47,661 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-19 12:16:47,662 - Model - INFO - The number of test data is: 40
+2022-07-19 12:17:28,539 - Model - INFO - eval mIoU of branch         0.883337
+2022-07-19 12:17:28,540 - Model - INFO - Accuracy is: 0.97152
+2022-07-19 12:17:28,540 - Model - INFO - Class avg accuracy is: 0.93556
+2022-07-19 12:17:28,540 - Model - INFO - Class avg mIOU is: 0.88334
+2022-07-19 12:17:28,540 - Model - INFO - Inctance avg mIOU is: 0.88334
+2022-07-19 12:17:28,540 - Model - INFO - m_recall is: 0.93556
+2022-07-19 12:17:28,540 - Model - INFO - m_precison is: 0.93226
+2022-07-19 12:17:28,540 - Model - INFO - F1-Score is: 0.93390
+2022-07-19 12:20:51,375 - Model - INFO - PARAMETER ...
+2022-07-19 12:20:51,375 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-19 12:20:51,376 - Model - INFO - The number of test data is: 40
+2022-07-19 12:21:33,020 - Model - INFO - eval mIoU of branch         0.882629
+2022-07-19 12:21:33,020 - Model - INFO - Accuracy is: 0.97145
+2022-07-19 12:21:33,020 - Model - INFO - Class avg accuracy is: 0.93564
+2022-07-19 12:21:33,021 - Model - INFO - Class avg mIOU is: 0.88263
+2022-07-19 12:21:33,021 - Model - INFO - Inctance avg mIOU is: 0.88263
+2022-07-19 12:21:33,021 - Model - INFO - m_recall is: 0.93564
+2022-07-19 12:21:33,021 - Model - INFO - m_precison is: 0.93190
+2022-07-19 12:21:33,021 - Model - INFO - F1-Score is: 0.93377
+2022-07-20 13:44:06,027 - Model - INFO - PARAMETER ...
+2022-07-20 13:44:06,027 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-20 13:44:06,028 - Model - INFO - The number of test data is: 4
+2022-07-20 13:44:13,207 - Model - INFO - eval mIoU of branch         0.862549
+2022-07-20 13:44:13,207 - Model - INFO - Accuracy is: 0.98254
+2022-07-20 13:44:13,207 - Model - INFO - Class avg accuracy is: 0.90312
+2022-07-20 13:44:13,207 - Model - INFO - Class avg mIOU is: 0.86255
+2022-07-20 13:44:13,207 - Model - INFO - Inctance avg mIOU is: 0.86255
+2022-07-20 13:44:13,207 - Model - INFO - m_recall is: 0.90312
+2022-07-20 13:44:13,207 - Model - INFO - m_precison is: 0.95669
+2022-07-20 13:44:13,207 - Model - INFO - F1-Score is: 0.92913
+2022-07-20 13:46:18,824 - Model - INFO - PARAMETER ...
+2022-07-20 13:46:18,824 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-07-20 13:46:18,825 - Model - INFO - The number of test data is: 4
+2022-07-20 13:46:25,922 - Model - INFO - eval mIoU of branch         0.861272
+2022-07-20 13:46:25,922 - Model - INFO - Accuracy is: 0.98206
+2022-07-20 13:46:25,922 - Model - INFO - Class avg accuracy is: 0.90613
+2022-07-20 13:46:25,922 - Model - INFO - Class avg mIOU is: 0.86127
+2022-07-20 13:46:25,923 - Model - INFO - Inctance avg mIOU is: 0.86127
+2022-07-20 13:46:25,923 - Model - INFO - m_recall is: 0.90613
+2022-07-20 13:46:25,923 - Model - INFO - m_precison is: 0.94991
+2022-07-20 13:46:25,923 - Model - INFO - F1-Score is: 0.92750
+2022-11-27 17:32:40,756 - Model - INFO - PARAMETER ...
+2022-11-27 17:32:40,757 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-11-27 17:32:40,758 - Model - INFO - The number of test data is: 4
+2022-11-27 17:32:55,683 - Model - INFO - eval mIoU of branch         0.874233
+2022-11-27 17:32:55,683 - Model - INFO - Accuracy is: 0.98218
+2022-11-27 17:32:55,683 - Model - INFO - Class avg accuracy is: 0.93645
+2022-11-27 17:32:55,684 - Model - INFO - Class avg mIOU is: 0.87423
+2022-11-27 17:32:55,684 - Model - INFO - Inctance avg mIOU is: 0.87423
+2022-11-27 17:32:55,684 - Model - INFO - m_recall is: 0.93645
+2022-11-27 17:32:55,684 - Model - INFO - m_precison is: 0.92670
+2022-11-27 17:32:55,684 - Model - INFO - F1-Score is: 0.93155
+2022-11-27 17:34:45,222 - Model - INFO - PARAMETER ...
+2022-11-27 17:34:45,222 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-11-27 17:34:45,223 - Model - INFO - The number of test data is: 4
+2022-11-27 17:34:59,682 - Model - INFO - eval mIoU of branch         0.849256
+2022-11-27 17:34:59,682 - Model - INFO - Accuracy is: 0.97803
+2022-11-27 17:34:59,682 - Model - INFO - Class avg accuracy is: 0.93177
+2022-11-27 17:34:59,682 - Model - INFO - Class avg mIOU is: 0.84926
+2022-11-27 17:34:59,682 - Model - INFO - Inctance avg mIOU is: 0.84926
+2022-11-27 17:34:59,682 - Model - INFO - m_recall is: 0.93177
+2022-11-27 17:34:59,683 - Model - INFO - m_precison is: 0.90417
+2022-11-27 17:34:59,683 - Model - INFO - F1-Score is: 0.91776
+2022-11-27 17:37:31,801 - Model - INFO - PARAMETER ...
+2022-11-27 17:37:31,801 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-11-27 17:37:31,803 - Model - INFO - The number of test data is: 40
+2022-11-27 17:39:19,600 - Model - INFO - eval mIoU of branch         0.865075
+2022-11-27 17:39:19,600 - Model - INFO - Accuracy is: 0.96372
+2022-11-27 17:39:19,600 - Model - INFO - Class avg accuracy is: 0.95303
+2022-11-27 17:39:19,600 - Model - INFO - Class avg mIOU is: 0.86507
+2022-11-27 17:39:19,600 - Model - INFO - Inctance avg mIOU is: 0.86507
+2022-11-27 17:39:19,600 - Model - INFO - m_recall is: 0.95303
+2022-11-27 17:39:19,600 - Model - INFO - m_precison is: 0.89532
+2022-11-27 17:39:19,600 - Model - INFO - F1-Score is: 0.92327
+2022-11-27 23:20:25,721 - Model - INFO - PARAMETER ...
+2022-11-27 23:20:25,722 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-11-27 23:20:25,723 - Model - INFO - The number of test data is: 40
+2022-11-27 23:22:16,043 - Model - INFO - eval mIoU of branch         0.881799
+2022-11-27 23:22:16,044 - Model - INFO - Accuracy is: 0.97037
+2022-11-27 23:22:16,044 - Model - INFO - Class avg accuracy is: 0.94814
+2022-11-27 23:22:16,044 - Model - INFO - Class avg mIOU is: 0.88180
+2022-11-27 23:22:16,044 - Model - INFO - Inctance avg mIOU is: 0.88180
+2022-11-27 23:22:16,044 - Model - INFO - m_recall is: 0.94814
+2022-11-27 23:22:16,044 - Model - INFO - m_precison is: 0.91969
+2022-11-27 23:22:16,044 - Model - INFO - F1-Score is: 0.93370
+2022-11-28 15:17:47,859 - Model - INFO - PARAMETER ...
+2022-11-28 15:17:47,859 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-11-28 15:17:47,861 - Model - INFO - The number of test data is: 40
+2022-11-28 15:18:30,563 - Model - INFO - eval mIoU of branch         0.884117
+2022-11-28 15:18:30,563 - Model - INFO - Accuracy is: 0.97075
+2022-11-28 15:18:30,563 - Model - INFO - Class avg accuracy is: 0.95184
+2022-11-28 15:18:30,563 - Model - INFO - Class avg mIOU is: 0.88412
+2022-11-28 15:18:30,563 - Model - INFO - Inctance avg mIOU is: 0.88412
+2022-11-28 15:18:30,563 - Model - INFO - m_recall is: 0.95184
+2022-11-28 15:18:30,563 - Model - INFO - m_precison is: 0.91886
+2022-11-28 15:18:30,563 - Model - INFO - F1-Score is: 0.93506
+2022-11-28 15:19:00,874 - Model - INFO - PARAMETER ...
+2022-11-28 15:19:00,874 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-11-28 15:19:00,875 - Model - INFO - The number of test data is: 40
+2022-11-28 15:19:43,107 - Model - INFO - eval mIoU of branch         0.883662
+2022-11-28 15:19:43,107 - Model - INFO - Accuracy is: 0.97059
+2022-11-28 15:19:43,107 - Model - INFO - Class avg accuracy is: 0.95188
+2022-11-28 15:19:43,107 - Model - INFO - Class avg mIOU is: 0.88366
+2022-11-28 15:19:43,107 - Model - INFO - Inctance avg mIOU is: 0.88366
+2022-11-28 15:19:43,108 - Model - INFO - m_recall is: 0.95188
+2022-11-28 15:19:43,108 - Model - INFO - m_precison is: 0.91828
+2022-11-28 15:19:43,108 - Model - INFO - F1-Score is: 0.93478
+2022-11-28 15:22:22,175 - Model - INFO - PARAMETER ...
+2022-11-28 15:22:22,175 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-11-28 15:22:22,176 - Model - INFO - The number of test data is: 40
+2022-11-28 15:24:15,609 - Model - INFO - eval mIoU of branch         0.880149
+2022-11-28 15:24:15,609 - Model - INFO - Accuracy is: 0.96981
+2022-11-28 15:24:15,609 - Model - INFO - Class avg accuracy is: 0.94559
+2022-11-28 15:24:15,609 - Model - INFO - Class avg mIOU is: 0.88015
+2022-11-28 15:24:15,609 - Model - INFO - Inctance avg mIOU is: 0.88015
+2022-11-28 15:24:15,609 - Model - INFO - m_recall is: 0.94559
+2022-11-28 15:24:15,609 - Model - INFO - m_precison is: 0.91921
+2022-11-28 15:24:15,609 - Model - INFO - F1-Score is: 0.93221
+2022-12-05 20:21:20,324 - Model - INFO - PARAMETER ...
+2022-12-05 20:21:20,324 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-05 20:21:20,325 - Model - INFO - The number of test data is: 1
+2022-12-05 20:21:24,669 - Model - INFO - eval mIoU of branch         0.977601
+2022-12-05 20:21:24,669 - Model - INFO - Accuracy is: 0.99463
+2022-12-05 20:21:24,669 - Model - INFO - Class avg accuracy is: 0.99536
+2022-12-05 20:21:24,669 - Model - INFO - Class avg mIOU is: 0.97760
+2022-12-05 20:21:24,669 - Model - INFO - Inctance avg mIOU is: 0.97760
+2022-12-05 20:21:24,669 - Model - INFO - m_recall is: 0.99536
+2022-12-05 20:21:24,669 - Model - INFO - m_precison is: 0.98211
+2022-12-05 20:21:24,669 - Model - INFO - F1-Score is: 0.98869
+2022-12-05 20:22:02,991 - Model - INFO - PARAMETER ...
+2022-12-05 20:22:02,991 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-05 20:22:02,992 - Model - INFO - The number of test data is: 1
+2022-12-05 20:22:07,267 - Model - INFO - eval mIoU of branch         0.686994
+2022-12-05 20:22:07,268 - Model - INFO - Accuracy is: 0.92188
+2022-12-05 20:22:07,268 - Model - INFO - Class avg accuracy is: 0.93522
+2022-12-05 20:22:07,268 - Model - INFO - Class avg mIOU is: 0.68699
+2022-12-05 20:22:07,268 - Model - INFO - Inctance avg mIOU is: 0.68699
+2022-12-05 20:22:07,268 - Model - INFO - m_recall is: 0.93522
+2022-12-05 20:22:07,268 - Model - INFO - m_precison is: 0.73239
+2022-12-05 20:22:07,268 - Model - INFO - F1-Score is: 0.82147
+2022-12-05 20:28:03,886 - Model - INFO - PARAMETER ...
+2022-12-05 20:28:03,887 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-05 20:28:03,888 - Model - INFO - The number of test data is: 1
+2022-12-05 20:28:08,206 - Model - INFO - eval mIoU of branch         0.742963
+2022-12-05 20:28:08,206 - Model - INFO - Accuracy is: 0.91260
+2022-12-05 20:28:08,207 - Model - INFO - Class avg accuracy is: 0.91432
+2022-12-05 20:28:08,207 - Model - INFO - Class avg mIOU is: 0.74296
+2022-12-05 20:28:08,207 - Model - INFO - Inctance avg mIOU is: 0.74296
+2022-12-05 20:28:08,207 - Model - INFO - m_recall is: 0.91432
+2022-12-05 20:28:08,207 - Model - INFO - m_precison is: 0.80227
+2022-12-05 20:28:08,207 - Model - INFO - F1-Score is: 0.85464
+2022-12-11 21:45:44,420 - Model - INFO - PARAMETER ...
+2022-12-11 21:45:44,420 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 21:45:44,421 - Model - INFO - The number of test data is: 1
+2022-12-11 21:45:48,676 - Model - INFO - eval mIoU of branch         0.734480
+2022-12-11 21:45:48,676 - Model - INFO - Accuracy is: 0.90820
+2022-12-11 21:45:48,676 - Model - INFO - Class avg accuracy is: 0.91178
+2022-12-11 21:45:48,676 - Model - INFO - Class avg mIOU is: 0.73448
+2022-12-11 21:45:48,676 - Model - INFO - Inctance avg mIOU is: 0.73448
+2022-12-11 21:45:48,676 - Model - INFO - m_recall is: 0.91178
+2022-12-11 21:45:48,676 - Model - INFO - m_precison is: 0.79558
+2022-12-11 21:45:48,676 - Model - INFO - F1-Score is: 0.84972
+2022-12-11 21:59:42,992 - Model - INFO - PARAMETER ...
+2022-12-11 21:59:42,992 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 21:59:42,993 - Model - INFO - The number of test data is: 1
+2022-12-11 22:11:45,485 - Model - INFO - PARAMETER ...
+2022-12-11 22:11:45,486 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 22:11:45,487 - Model - INFO - The number of test data is: 1
+2022-12-11 22:14:52,746 - Model - INFO - PARAMETER ...
+2022-12-11 22:14:52,746 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 22:14:52,747 - Model - INFO - The number of test data is: 1
+2022-12-11 22:16:54,520 - Model - INFO - eval mIoU of branch         0.726301
+2022-12-11 22:17:15,631 - Model - INFO - Accuracy is: 0.90918
+2022-12-11 22:17:16,199 - Model - INFO - Class avg accuracy is: 0.88022
+2022-12-11 22:17:16,892 - Model - INFO - Class avg mIOU is: 0.72630
+2022-12-11 22:17:30,188 - Model - INFO - PARAMETER ...
+2022-12-11 22:17:30,188 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 22:17:30,190 - Model - INFO - The number of test data is: 1
+2022-12-11 22:18:20,038 - Model - INFO - PARAMETER ...
+2022-12-11 22:18:20,038 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 22:18:20,040 - Model - INFO - The number of test data is: 1
+2022-12-11 22:20:11,608 - Model - INFO - PARAMETER ...
+2022-12-11 22:20:11,608 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 22:20:11,609 - Model - INFO - The number of test data is: 2
+2022-12-11 22:21:30,085 - Model - INFO - PARAMETER ...
+2022-12-11 22:21:30,085 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 22:21:30,087 - Model - INFO - The number of test data is: 2
+2022-12-11 22:28:35,304 - Model - INFO - PARAMETER ...
+2022-12-11 22:28:35,304 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 22:28:35,306 - Model - INFO - The number of test data is: 2
+2022-12-11 23:36:44,658 - Model - INFO - PARAMETER ...
+2022-12-11 23:36:44,658 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 23:36:44,660 - Model - INFO - The number of test data is: 2
+2022-12-11 23:37:59,565 - Model - INFO - PARAMETER ...
+2022-12-11 23:37:59,565 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 23:37:59,566 - Model - INFO - The number of test data is: 2
+2022-12-11 23:38:04,775 - Model - INFO - eval mIoU of branch         0.837558
+2022-12-11 23:38:04,775 - Model - INFO - Accuracy is: 0.95654
+2022-12-11 23:38:04,775 - Model - INFO - Class avg accuracy is: 0.93539
+2022-12-11 23:38:04,775 - Model - INFO - Class avg mIOU is: 0.83756
+2022-12-11 23:38:04,775 - Model - INFO - Inctance avg mIOU is: 0.83756
+2022-12-11 23:38:04,775 - Model - INFO - m_recall is: 0.93539
+2022-12-11 23:38:04,775 - Model - INFO - m_precison is: 0.86266
+2022-12-11 23:38:04,775 - Model - INFO - F1-Score is: 0.89755
+2022-12-11 23:42:38,879 - Model - INFO - PARAMETER ...
+2022-12-11 23:42:38,880 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 23:42:38,881 - Model - INFO - The number of test data is: 2
+2022-12-11 23:42:44,073 - Model - INFO - eval mIoU of branch         0.824455
+2022-12-11 23:42:44,073 - Model - INFO - Accuracy is: 0.95044
+2022-12-11 23:42:44,073 - Model - INFO - Class avg accuracy is: 0.93405
+2022-12-11 23:42:44,073 - Model - INFO - Class avg mIOU is: 0.82445
+2022-12-11 23:42:44,073 - Model - INFO - Inctance avg mIOU is: 0.82445
+2022-12-11 23:42:44,074 - Model - INFO - m_recall is: 0.93405
+2022-12-11 23:42:44,074 - Model - INFO - m_precison is: 0.84549
+2022-12-11 23:42:44,074 - Model - INFO - F1-Score is: 0.88757
+2022-12-11 23:42:44,074 - Model - INFO - ---------------
+2022-12-11 23:42:44,074 - Model - INFO - Prec is: 0.87918
+2022-12-11 23:43:01,701 - Model - INFO - PARAMETER ...
+2022-12-11 23:43:01,701 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 23:43:01,702 - Model - INFO - The number of test data is: 2
+2022-12-11 23:43:06,939 - Model - INFO - eval mIoU of branch         0.831799
+2022-12-11 23:43:06,939 - Model - INFO - Accuracy is: 0.95215
+2022-12-11 23:43:06,939 - Model - INFO - Class avg accuracy is: 0.93190
+2022-12-11 23:43:06,939 - Model - INFO - Class avg mIOU is: 0.83180
+2022-12-11 23:43:06,939 - Model - INFO - Inctance avg mIOU is: 0.83180
+2022-12-11 23:43:06,939 - Model - INFO - m_recall is: 0.93190
+2022-12-11 23:43:06,939 - Model - INFO - m_precison is: 0.85072
+2022-12-11 23:43:06,939 - Model - INFO - F1-Score is: 0.88947
+2022-12-11 23:43:06,939 - Model - INFO - ---------------
+2022-12-11 23:43:06,939 - Model - INFO - Prec is: 0.88807
+2022-12-11 23:43:06,939 - Model - INFO - Rec is: 0.92834
+2022-12-11 23:43:06,939 - Model - INFO - F1 is: 0.90091
+2022-12-11 23:43:06,939 - Model - INFO - Prec_0 is: 0.78755
+2022-12-11 23:43:06,939 - Model - INFO - Rec_0 is: 0.90054
+2022-12-11 23:43:06,939 - Model - INFO - F1_0 is: 0.83011
+2022-12-11 23:43:06,940 - Model - INFO - Prec_1 is: 0.98860
+2022-12-11 23:43:06,940 - Model - INFO - Rec_1 is: 0.95613
+2022-12-11 23:43:06,940 - Model - INFO - F1_1 is: 0.97171
+2022-12-11 23:46:02,964 - Model - INFO - PARAMETER ...
+2022-12-11 23:46:02,964 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 23:46:02,965 - Model - INFO - The number of test data is: 2
+2022-12-11 23:46:08,237 - Model - INFO - eval mIoU of branch         0.826447
+2022-12-11 23:46:08,238 - Model - INFO - Accuracy is: 0.94946
+2022-12-11 23:46:08,238 - Model - INFO - Class avg accuracy is: 0.93454
+2022-12-11 23:46:08,238 - Model - INFO - Class avg mIOU is: 0.82645
+2022-12-11 23:46:08,238 - Model - INFO - Inctance avg mIOU is: 0.82645
+2022-12-11 23:46:08,238 - Model - INFO - m_recall is: 0.93454
+2022-12-11 23:46:08,238 - Model - INFO - m_precison is: 0.84277
+2022-12-11 23:46:08,238 - Model - INFO - F1-Score is: 0.88629
+2022-12-11 23:46:08,238 - Model - INFO - ---------------
+2022-12-11 23:46:08,238 - Model - INFO - Prec is: 0.88120
+2022-12-11 23:46:08,238 - Model - INFO - Rec is: 0.93061
+2022-12-11 23:46:08,238 - Model - INFO - F1 is: 0.89727
+2022-12-11 23:46:08,238 - Model - INFO - Prec_0 is: 0.77269
+2022-12-11 23:46:08,238 - Model - INFO - Rec_0 is: 0.90929
+2022-12-11 23:46:08,238 - Model - INFO - F1_0 is: 0.82455
+2022-12-11 23:46:08,238 - Model - INFO - Prec_1 is: 0.98971
+2022-12-11 23:46:08,239 - Model - INFO - Rec_1 is: 0.95194
+2022-12-11 23:46:08,239 - Model - INFO - F1_1 is: 0.96999
+2022-12-11 23:48:00,244 - Model - INFO - PARAMETER ...
+2022-12-11 23:48:00,244 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 23:48:00,246 - Model - INFO - The number of test data is: 40
+2022-12-11 23:48:41,612 - Model - INFO - eval mIoU of branch         0.879812
+2022-12-11 23:48:41,613 - Model - INFO - Accuracy is: 0.96969
+2022-12-11 23:48:41,613 - Model - INFO - Class avg accuracy is: 0.94616
+2022-12-11 23:48:41,613 - Model - INFO - Class avg mIOU is: 0.87981
+2022-12-11 23:48:41,613 - Model - INFO - Inctance avg mIOU is: 0.87981
+2022-12-11 23:48:41,613 - Model - INFO - m_recall is: 0.94616
+2022-12-11 23:48:41,613 - Model - INFO - m_precison is: 0.91843
+2022-12-11 23:48:41,613 - Model - INFO - F1-Score is: 0.93209
+2022-12-11 23:48:41,613 - Model - INFO - ---------------
+2022-12-11 23:48:41,613 - Model - INFO - Prec is: 0.92037
+2022-12-11 23:48:41,613 - Model - INFO - Rec is: 0.94704
+2022-12-11 23:48:41,613 - Model - INFO - F1 is: 0.93120
+2022-12-11 23:48:41,613 - Model - INFO - Prec_0 is: 0.85289
+2022-12-11 23:48:41,614 - Model - INFO - Rec_0 is: 0.91684
+2022-12-11 23:48:41,614 - Model - INFO - F1_0 is: 0.87999
+2022-12-11 23:48:41,614 - Model - INFO - Prec_1 is: 0.98785
+2022-12-11 23:48:41,614 - Model - INFO - Rec_1 is: 0.97724
+2022-12-11 23:48:41,614 - Model - INFO - F1_1 is: 0.98242
+2022-12-11 23:57:00,855 - Model - INFO - PARAMETER ...
+2022-12-11 23:57:00,855 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 23:57:00,856 - Model - INFO - The number of test data is: 2
+2022-12-11 23:57:06,044 - Model - INFO - eval mIoU of branch         0.816337
+2022-12-11 23:57:06,044 - Model - INFO - Accuracy is: 0.94775
+2022-12-11 23:57:06,044 - Model - INFO - Class avg accuracy is: 0.91600
+2022-12-11 23:57:06,044 - Model - INFO - Class avg mIOU is: 0.81634
+2022-12-11 23:57:06,044 - Model - INFO - Inctance avg mIOU is: 0.81634
+2022-12-11 23:57:06,044 - Model - INFO - m_recall is: 0.91600
+2022-12-11 23:57:06,044 - Model - INFO - m_precison is: 0.84209
+2022-12-11 23:57:06,044 - Model - INFO - F1-Score is: 0.87749
+2022-12-11 23:57:06,044 - Model - INFO - ---------------
+2022-12-11 23:57:06,044 - Model - INFO - Prec is: 0.87748
+2022-12-11 23:57:06,044 - Model - INFO - Rec is: 0.91513
+2022-12-11 23:57:06,044 - Model - INFO - F1 is: 0.89024
+2022-12-11 23:57:06,044 - Model - INFO - Prec_0 is: 0.77021
+2022-12-11 23:57:06,044 - Model - INFO - Rec_0 is: 0.87549
+2022-12-11 23:57:06,045 - Model - INFO - F1_0 is: 0.81126
+2022-12-11 23:57:06,045 - Model - INFO - Prec_1 is: 0.98475
+2022-12-11 23:57:06,045 - Model - INFO - Rec_1 is: 0.95478
+2022-12-11 23:57:06,045 - Model - INFO - F1_1 is: 0.96922
+2022-12-11 23:57:37,823 - Model - INFO - PARAMETER ...
+2022-12-11 23:57:37,823 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-11 23:57:37,824 - Model - INFO - The number of test data is: 40
+2022-12-11 23:58:19,840 - Model - INFO - eval mIoU of branch         0.880321
+2022-12-11 23:58:19,841 - Model - INFO - Accuracy is: 0.96981
+2022-12-11 23:58:19,841 - Model - INFO - Class avg accuracy is: 0.94662
+2022-12-11 23:58:19,841 - Model - INFO - Class avg mIOU is: 0.88032
+2022-12-11 23:58:19,841 - Model - INFO - Inctance avg mIOU is: 0.88032
+2022-12-11 23:58:19,841 - Model - INFO - m_recall is: 0.94662
+2022-12-11 23:58:19,841 - Model - INFO - m_precison is: 0.91859
+2022-12-11 23:58:19,841 - Model - INFO - F1-Score is: 0.93239
+2022-12-11 23:58:19,841 - Model - INFO - ---------------
+2022-12-11 23:58:19,841 - Model - INFO - Prec is: 0.92011
+2022-12-11 23:58:19,841 - Model - INFO - Rec is: 0.94815
+2022-12-11 23:58:19,841 - Model - INFO - F1 is: 0.93154
+2022-12-11 23:58:19,841 - Model - INFO - Prec_0 is: 0.85225
+2022-12-11 23:58:19,842 - Model - INFO - Rec_0 is: 0.91903
+2022-12-11 23:58:19,842 - Model - INFO - F1_0 is: 0.88058
+2022-12-11 23:58:19,842 - Model - INFO - Prec_1 is: 0.98796
+2022-12-11 23:58:19,842 - Model - INFO - Rec_1 is: 0.97727
+2022-12-11 23:58:19,842 - Model - INFO - F1_1 is: 0.98249
+2022-12-12 00:02:16,146 - Model - INFO - PARAMETER ...
+2022-12-12 00:02:16,146 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-12 00:02:16,148 - Model - INFO - The number of test data is: 40
+2022-12-12 00:04:22,253 - Model - INFO - PARAMETER ...
+2022-12-12 00:04:22,254 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-12 00:04:22,256 - Model - INFO - The number of test data is: 40
+2022-12-12 00:08:14,591 - Model - INFO - PARAMETER ...
+2022-12-12 00:08:14,591 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-12 00:08:14,595 - Model - INFO - The number of test data is: 40
+2022-12-12 00:13:39,311 - Model - INFO - PARAMETER ...
+2022-12-12 00:13:39,311 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-12 00:13:39,312 - Model - INFO - The number of test data is: 2
+2022-12-12 00:13:44,657 - Model - INFO - eval mIoU of branch         0.816061
+2022-12-12 00:13:44,657 - Model - INFO - Accuracy is: 0.94800
+2022-12-12 00:13:44,657 - Model - INFO - Class avg accuracy is: 0.92131
+2022-12-12 00:13:44,657 - Model - INFO - Class avg mIOU is: 0.81606
+2022-12-12 00:13:44,657 - Model - INFO - Inctance avg mIOU is: 0.81606
+2022-12-12 00:13:44,657 - Model - INFO - m_recall is: 0.92131
+2022-12-12 00:13:44,657 - Model - INFO - m_precison is: 0.84159
+2022-12-12 00:13:44,657 - Model - INFO - F1-Score is: 0.87965
+2022-12-12 00:13:44,657 - Model - INFO - ---------------
+2022-12-12 00:13:44,657 - Model - INFO - Prec is: 0.87811
+2022-12-12 00:13:44,658 - Model - INFO - Rec is: 0.91760
+2022-12-12 00:13:44,658 - Model - INFO - F1 is: 0.89061
+2022-12-12 00:13:44,658 - Model - INFO - IoU is: 0.81606
+2022-12-12 00:13:44,658 - Model - INFO - Prec_0 is: 0.76993
+2022-12-12 00:13:44,658 - Model - INFO - Rec_0 is: 0.88155
+2022-12-12 00:13:44,658 - Model - INFO - F1_0 is: 0.81192
+2022-12-12 00:13:44,658 - Model - INFO - IoU_0 is: 0.69077
+2022-12-12 00:13:44,658 - Model - INFO - Prec_1 is: 0.98629
+2022-12-12 00:13:44,658 - Model - INFO - Rec_1 is: 0.95365
+2022-12-12 00:13:44,658 - Model - INFO - F1_1 is: 0.96931
+2022-12-12 00:13:44,658 - Model - INFO - IoU_1 is: 0.94135
+2022-12-12 00:15:07,603 - Model - INFO - PARAMETER ...
+2022-12-12 00:15:07,603 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-12 00:15:07,604 - Model - INFO - The number of test data is: 40
+2022-12-12 00:15:49,382 - Model - INFO - eval mIoU of branch         0.878924
+2022-12-12 00:15:49,382 - Model - INFO - Accuracy is: 0.96929
+2022-12-12 00:15:49,382 - Model - INFO - Class avg accuracy is: 0.94640
+2022-12-12 00:15:49,382 - Model - INFO - Class avg mIOU is: 0.87892
+2022-12-12 00:15:49,382 - Model - INFO - Inctance avg mIOU is: 0.87892
+2022-12-12 00:15:49,382 - Model - INFO - m_recall is: 0.94640
+2022-12-12 00:15:49,382 - Model - INFO - m_precison is: 0.91686
+2022-12-12 00:15:49,382 - Model - INFO - F1-Score is: 0.93140
+2022-12-12 00:15:49,382 - Model - INFO - ---------------
+2022-12-12 00:15:49,382 - Model - INFO - Prec is: 0.91932
+2022-12-12 00:15:49,383 - Model - INFO - Rec is: 0.94743
+2022-12-12 00:15:49,383 - Model - INFO - F1 is: 0.93064
+2022-12-12 00:15:49,383 - Model - INFO - IoU is: 0.87892
+2022-12-12 00:15:49,383 - Model - INFO - Prec_0 is: 0.85061
+2022-12-12 00:15:49,383 - Model - INFO - Rec_0 is: 0.91824
+2022-12-12 00:15:49,383 - Model - INFO - F1_0 is: 0.87911
+2022-12-12 00:15:49,383 - Model - INFO - IoU_0 is: 0.79261
+2022-12-12 00:15:49,383 - Model - INFO - Prec_1 is: 0.98802
+2022-12-12 00:15:49,383 - Model - INFO - Rec_1 is: 0.97661
+2022-12-12 00:15:49,384 - Model - INFO - F1_1 is: 0.98216
+2022-12-12 00:15:49,384 - Model - INFO - IoU_1 is: 0.96524
+2022-12-12 00:20:05,738 - Model - INFO - PARAMETER ...
+2022-12-12 00:20:05,738 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-12 00:20:05,740 - Model - INFO - The number of test data is: 40
+2022-12-12 00:20:47,066 - Model - INFO - eval mIoU of branch         0.879047
+2022-12-12 00:20:47,066 - Model - INFO - Accuracy is: 0.96938
+2022-12-12 00:20:47,066 - Model - INFO - Class avg accuracy is: 0.94728
+2022-12-12 00:20:47,066 - Model - INFO - Class avg mIOU is: 0.87905
+2022-12-12 00:20:47,067 - Model - INFO - Inctance avg mIOU is: 0.87905
+2022-12-12 00:20:47,067 - Model - INFO - m_recall is: 0.94728
+2022-12-12 00:20:47,067 - Model - INFO - m_precison is: 0.91669
+2022-12-12 00:20:47,067 - Model - INFO - F1-Score is: 0.93173
+2022-12-12 00:20:47,067 - Model - INFO - ---------------
+2022-12-12 00:20:47,067 - Model - INFO - Prec is: 0.91881
+2022-12-12 00:20:47,067 - Model - INFO - Rec is: 0.94851
+2022-12-12 00:20:47,067 - Model - INFO - F1 is: 0.93070
+2022-12-12 00:20:47,067 - Model - INFO - IoU is: 0.87905
+2022-12-12 00:20:47,067 - Model - INFO - Prec_0 is: 0.84934
+2022-12-12 00:20:47,067 - Model - INFO - Rec_0 is: 0.92050
+2022-12-12 00:20:47,067 - Model - INFO - F1_0 is: 0.87915
+2022-12-12 00:20:47,068 - Model - INFO - IoU_0 is: 0.79269
+2022-12-12 00:20:47,068 - Model - INFO - Prec_1 is: 0.98829
+2022-12-12 00:20:47,068 - Model - INFO - Rec_1 is: 0.97653
+2022-12-12 00:20:47,068 - Model - INFO - F1_1 is: 0.98225
+2022-12-12 00:20:47,068 - Model - INFO - IoU_1 is: 0.96541
+2022-12-12 00:21:53,721 - Model - INFO - PARAMETER ...
+2022-12-12 00:21:53,721 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-12 00:21:53,722 - Model - INFO - The number of test data is: 40
+2022-12-12 00:22:35,574 - Model - INFO - eval mIoU of branch         0.879410
+2022-12-12 00:22:35,574 - Model - INFO - Accuracy is: 0.96952
+2022-12-12 00:22:35,574 - Model - INFO - Class avg accuracy is: 0.94624
+2022-12-12 00:22:35,574 - Model - INFO - Class avg mIOU is: 0.87941
+2022-12-12 00:22:35,574 - Model - INFO - Inctance avg mIOU is: 0.87941
+2022-12-12 00:22:35,574 - Model - INFO - m_recall is: 0.94624
+2022-12-12 00:22:35,574 - Model - INFO - m_precison is: 0.91778
+2022-12-12 00:22:35,574 - Model - INFO - F1-Score is: 0.93179
+2022-12-12 00:22:35,574 - Model - INFO - ---------------
+2022-12-12 00:22:35,575 - Model - INFO - Prec is: 0.91986
+2022-12-12 00:22:35,575 - Model - INFO - Rec is: 0.94778
+2022-12-12 00:22:35,575 - Model - INFO - F1 is: 0.93113
+2022-12-12 00:22:35,575 - Model - INFO - IoU is: 0.87941
+2022-12-12 00:22:35,575 - Model - INFO - Prec_0 is: 0.85180
+2022-12-12 00:22:35,575 - Model - INFO - Rec_0 is: 0.91855
+2022-12-12 00:22:35,575 - Model - INFO - F1_0 is: 0.87994
+2022-12-12 00:22:35,575 - Model - INFO - IoU_0 is: 0.79330
+2022-12-12 00:22:35,575 - Model - INFO - Prec_1 is: 0.98791
+2022-12-12 00:22:35,576 - Model - INFO - Rec_1 is: 0.97701
+2022-12-12 00:22:35,576 - Model - INFO - F1_1 is: 0.98232
+2022-12-12 00:22:35,576 - Model - INFO - IoU_1 is: 0.96552
+2022-12-13 21:15:24,121 - Model - INFO - PARAMETER ...
+2022-12-13 21:15:24,121 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-13 21:15:24,122 - Model - INFO - The number of test data is: 40
+2022-12-13 21:15:39,120 - Model - INFO - PARAMETER ...
+2022-12-13 21:15:39,121 - Model - INFO - Namespace(batch_size=1, gpu='1', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2022-12-13 21:15:39,122 - Model - INFO - The number of test data is: 4
+2022-12-13 21:15:46,240 - Model - INFO - eval mIoU of branch         0.882977
+2022-12-13 21:15:46,240 - Model - INFO - Accuracy is: 0.98242
+2022-12-13 21:15:46,240 - Model - INFO - Class avg accuracy is: 0.92595
+2022-12-13 21:15:46,240 - Model - INFO - Class avg mIOU is: 0.88298
+2022-12-13 21:15:46,240 - Model - INFO - Inctance avg mIOU is: 0.88298
+2022-12-13 21:15:46,240 - Model - INFO - m_recall is: 0.92595
+2022-12-13 21:15:46,240 - Model - INFO - m_precison is: 0.93595
+2022-12-13 21:15:46,241 - Model - INFO - F1-Score is: 0.93092
+2022-12-13 21:15:46,241 - Model - INFO - ---------------
+2022-12-13 21:15:46,241 - Model - INFO - Prec is: 0.93688
+2022-12-13 21:15:46,241 - Model - INFO - Rec is: 0.92286
+2022-12-13 21:15:46,241 - Model - INFO - F1 is: 0.92801
+2022-12-13 21:15:46,241 - Model - INFO - IoU is: 0.88298
+2022-12-13 21:15:46,241 - Model - INFO - Prec_0 is: 0.88400
+2022-12-13 21:15:46,241 - Model - INFO - Rec_0 is: 0.85431
+2022-12-13 21:15:46,241 - Model - INFO - F1_0 is: 0.86547
+2022-12-13 21:15:46,241 - Model - INFO - IoU_0 is: 0.78455
+2022-12-13 21:15:46,241 - Model - INFO - Prec_1 is: 0.98977
+2022-12-13 21:15:46,241 - Model - INFO - Rec_1 is: 0.99140
+2022-12-13 21:15:46,241 - Model - INFO - F1_1 is: 0.99056
+2022-12-13 21:15:46,242 - Model - INFO - IoU_1 is: 0.98141

@@ -1,0 +1,7 @@
+2022-02-28 18:24:05,034 - Model - INFO - PARAMETER ...
+2022-02-28 18:24:05,034 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir=None, lr_decay=0.5, model='pointnet2_part_seg_msg', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2022-02-28 18:24:05,196 - Model - INFO - The number of training data is: 13998
+2022-02-28 18:24:05,196 - Model - INFO - The number of test data is: 2874
+2022-02-28 18:24:08,474 - Model - INFO - No existing model, starting training from scratch...
+2022-02-28 18:24:08,477 - Model - INFO - Epoch 1 (1/251):
+2022-02-28 18:24:08,477 - Model - INFO - Learning rate:0.001000
